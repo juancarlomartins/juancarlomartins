@@ -27,6 +27,8 @@ I am interested in:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
 ### 🌐 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
@@ -36,6 +38,9 @@ I am interested in:
 ### ⚙️ Backend & Web
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+
+### 🏛️ Platforms & Systems
+![DSpace](https://img.shields.io/badge/-DSpace-black?style=flat-square)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
