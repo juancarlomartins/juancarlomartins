@@ -20,16 +20,16 @@ I am interested in:
 - Backend Development
 - Web Architecture
 - Scalable Systems
-
+<!--Apresentando minhas ferramentas de trabalho e habilidades-->
 ## 🧰 Tech Stack
 
+<!--Linguagens de programação que eu mais uso-->
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-
 ### 🌐 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
