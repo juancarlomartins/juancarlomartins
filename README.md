@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Juan Carlo
+# 👋 Hello, I'm Juan Carlo Teles Martins
 
 💻 Software Developer  
 🎓 Computer Science Student — Federal University of Pará (UFPA)  
