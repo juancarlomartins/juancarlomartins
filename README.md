@@ -8,7 +8,7 @@
 
 I am a Web Developer focused on building and maintaining institutional web systems in production environments.
 
-Currently working on the development and evolution of a university official portal and academic digital repositories, contributing to both frontend and backend solutions using **WordPress (PHP & Gutenberg Blocks)**, **Angular**, **Node.js**, **JavaScript**, and **TypeScript**.
+Currently working on the development and evolution of a university official portal and academic digital repositories, contributing to both frontend and backend solutions using **WordPress (PHP & Gutenberg Blocks)**, **Angular**, **Node.js**, **JavaScript**, and **TypeScript**.   
 
 I am currently pursuing a **Bachelor’s degree in Computer Science at the Federal University of Pará (UFPA)** and a **Full-Stack Development program at Programadores do Amanhã**, after completing a **Higher Education degree in Computer Networks**.   
 
