@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Juan Carlo Teles Martins
 
 💻 Software Developer  
-🎓 Computer Science Student — Federal University of Pará (UFPA)  
+🎓 Computer Science Student — Federal University of Pará (UFPA)     
 🌐 Web & Institutional Systems Developer  
      
 ## 🚀 About Me.     
