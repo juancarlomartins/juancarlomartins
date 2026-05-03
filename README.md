@@ -14,7 +14,7 @@ I am currently pursuing a **Bachelor’s degree in Computer Science at the Feder
 
 My academic background combined with practical industry experience allows me to understand software systems from infrastructure and networking fundamentals to modern web application development.
 
-I am interested in:
+I am interested in:   
 
 - Software Engineering
 - Backend Development
