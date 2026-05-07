@@ -18,7 +18,7 @@ I am interested in:
 
 - Software Engineering
 - Backend Development
-- Web Architecture
+- Web Architecture.  
 - Scalable Systems
 <!--Apresentando minhas ferramentas de trabalho e habilidades-->
 ## 🧰 Tech Stack
