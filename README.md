@@ -49,13 +49,6 @@ I am interested in:
 ## 📌 Featured Projects
 
 
-
-## 📊 GitHub Stats
-
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancarlomartins&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlomartins&layout=compact&theme=transparent)
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/juanmartinsdev/
