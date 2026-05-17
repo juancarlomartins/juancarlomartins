@@ -16,7 +16,7 @@ My academic background combined with practical industry experience allows me to 
 
 I am interested in:   
 
-- Software Engineering
+- Software Engineering. 
 - Backend Development
 - Web Architecture.  
 - Scalable Systems
