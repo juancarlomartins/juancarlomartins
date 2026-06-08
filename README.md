@@ -6,7 +6,7 @@
      
 ## 🚀 About Me.       
 
-I am a Web Developer focused on building and maintaining institutional web systems in production environments.
+I am a Web Developer focused on building and maintaining institutional web systems in production environments. 
 
 Currently working on the development and evolution of a university official portal and academic digital repositories, contributing to both frontend and backend solutions using **WordPress (PHP & Gutenberg Blocks)**, **Angular**, **Node.js**, **JavaScript**, and **TypeScript**.      
 
