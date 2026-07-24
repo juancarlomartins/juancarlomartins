@@ -51,7 +51,7 @@ I am interested in:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/juanmartinsdev/
+- 💼 LinkedIn:   https://www.linkedin.com/in/juanmartinsdev/
 - 📧 Email: juanctmartins117@gmail.com
 
 #
