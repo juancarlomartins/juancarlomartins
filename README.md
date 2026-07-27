@@ -42,7 +42,7 @@ I am interested in:
 ### 🏛️ Platforms & Systems
 ![DSpace](https://img.shields.io/badge/-DSpace-black?style=flat-square)
 
-### 🛠 Tools
+### 🛠 Tools. 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
